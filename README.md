@@ -72,3 +72,4 @@ See Docker options for details.
 ## Code Style
 
 You should check your code with `CheckStyle` and `FindBugs` maven plugins executing `mvn clean compile` command. 
+"# IndigoELN" 
